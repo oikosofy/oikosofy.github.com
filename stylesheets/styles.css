@@ -183,6 +183,12 @@ footer {
   bottom:50px;
 }
 
+.index {
+  position:static;
+  font-size: 12px;
+}
+
+
 @media print, screen and (max-width: 960px) {
   
   div.wrapper {
@@ -199,7 +205,7 @@ footer {
   header {
     padding-right:320px;
   }
-  
+
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
